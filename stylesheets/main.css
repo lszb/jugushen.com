@@ -1,0 +1,173 @@
+
+.nav {
+  background-color: black;
+  color: #fff;
+}
+
+.nav ul{
+  margin-top: 8px
+}
+
+.nav a {
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+  margin-left: 25px
+}
+
+.jumbotron {
+  background-image:url('');
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 50px
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.container {
+  padding-left: 100px
+}
+
+.contaienr .columnRight {
+  padding-left: 50px
+}
+
+.column{
+    position: relative;
+    height: 55px;
+    line-height: 55px;
+    border-bottom: 4px solid #999999;
+}
+.num01{
+    height: 55px;
+    border-bottom: 4px solid #e23024;
+    font-size: 22px;
+    padding: 0 20px;
+    color: #c82217;
+    float: left;
+    padding-top: 20px;
+}
+.num02{
+    height: 55px;
+    font-size: 22px;
+    padding: 0 20px;
+    float: left;
+    padding-top: 20px;
+}
+
+.numSpan{
+    background: url(../images/img03.png) no-repeat -47px 0 ;
+    padding: 3px 11px;
+    color: #fff;
+    font-size: 18px;
+}
+.numSpan2{
+    background: url(../images/img03.png) no-repeat -6px 0 ;
+    padding: 3px 11px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.columnRight{
+    margin-top: 10px;
+    width: 320px;
+    height: 30px;
+    background: #f5f5f5;
+    border: 3px solid #f0f0f0;
+    border-radius: 80px;
+    line-height: 30px;
+    float: left;
+    margin-top: 20px
+}
+
+.icon01{
+    width: 22px;
+    height: 20px;
+    background: url(../images/img03.png) no-repeat -92px 0;
+    margin: 5px;
+}
+.columnRightText{
+    overflow: hidden;
+    height: 30px;
+}
+
+.table-c table {
+  border-right: 1px solid #f00;
+  border-bottom: 1px solid #f00;
+  margin-top: 30px;
+  margin-left: 100px;
+  float: left;
+}
+
+.table-c table td {
+  border-left: 1px solid #f00;
+  border-top: 1px solid #f00;
+}
+
+.table-c table p{
+  text-align: center;
+  padding-top: 5px
+}
+
+.table-c h3 {
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.index_partner {
+  float: left;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.index_partner h3 {
+  text-align: center;
+}
+
+.index_partner footer { 
+  margin-left:100px;
+}
+
+.index_partner hr {
+  margin-left: 80px;
+  margin-right: 80px;
+}
