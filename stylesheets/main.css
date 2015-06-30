@@ -56,7 +56,6 @@
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
-  margin-left: 50px
 }
 
 .learn-more a {
@@ -134,23 +133,29 @@
   border-right: 1px solid #f00;
   border-bottom: 1px solid #f00;
   margin-top: 30px;
-  margin-left: 100px;
+  margin-left: 220px;
+  margin-right: -110px;
   float: left;
 }
 
 .table-c table td {
-  border-left: 1px solid #f00;
-  border-top: 1px solid #f00;
+  border-left: 2px solid #f00;
+  border-top: 2px solid #f00;
+  border-right: 2px solid #f00;
+  border-bottom: 2px solid #f00;
 }
 
-.table-c table p{
+.table-c table p {
   text-align: center;
-  padding-top: 5px
+}
+
+.table-c table button {
+  width: 380px;
 }
 
 .table-c h3 {
   margin-top: 30px;
-  margin-left: 100px;
+  margin-left: 200px;
 }
 
 .index_partner {
