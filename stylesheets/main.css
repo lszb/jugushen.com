@@ -172,13 +172,18 @@
 
 .index_partner h3 {
   text-align: center;
+  margin-top: -20px;
+}
+
+.index_partner img{
+  width: 1000px
 }
 
 .index_partner footer { 
-  margin-left:100px;
+  margin-left:150px;
 }
 
 .index_partner hr {
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 120px;
+  margin-right: 120px;
 }
