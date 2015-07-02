@@ -100,13 +100,13 @@
 }
 
 .numSpan{
-    background: url(../images/img03.png) no-repeat -47px 0 ;
+    background: url(../img/img01.png) no-repeat 2px 0 ;
     padding: 3px 11px;
     color: #fff;
     font-size: 18px;
 }
 .numSpan2{
-    background: url(../images/img03.png) no-repeat -6px 0 ;
+    background: url(../img/img02.png) no-repeat 1px 0 ;
     padding: 3px 11px;
     color: #fff;
     font-size: 18px;
@@ -127,7 +127,7 @@
 .icon01{
     width: 22px;
     height: 20px;
-    background: url(../images/img03.png) no-repeat -92px 0;
+    background: url(../img/img03.png) no-repeat  0px 0;
     margin: 5px;
 }
 .columnRightText{
@@ -145,14 +145,23 @@
 }
 
 .table-c table td {
-  border-left: 2px solid #f00;
-  border-top: 2px solid #f00;
-  border-right: 2px solid #f00;
-  border-bottom: 2px solid #f00;
+  border-left: 4px solid #fff;
+  border-top: 4px solid #fff;
+  border-right: 4px solid #fff;
+  border-bottom: 4px solid #fff;
+}
+
+.table-c table img {
+  width: 140px;
+  height: 136px;
+  margin-top: -50px
 }
 
 .table-c table p {
   text-align: center;
+  margin-top: -70px;
+  font-weight: 900;
+  font-size: 20px;
 }
 
 .table-c table button {
